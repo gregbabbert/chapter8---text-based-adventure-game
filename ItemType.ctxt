@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ItemType
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \ \ \r\n\ ItemType\ keeps\ the\ information\ about\ different\ types\ of\ stat\ so\ that\ \r\n\ appropriate\ stat\ can\ be\ used\ while\ assigning\ the\ points\r\n\ \r\n\ @author\ Gobra\ team\r\n\ @version\ March\ 17,\ 2020\ \r\n
+comment1.params=descr
+comment1.target=ItemType(java.lang.String)
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ the\ ItemType\ class.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ This\ gets\ the\ description\ of\ the\ itemtype.\r\n
+comment3.params=description
+comment3.target=void\ setDescription(java.lang.String)
+comment3.text=\r\n\ This\ sets\ the\ description\ of\ the\ itemtype.\r\n
+numComments=4
